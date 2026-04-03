@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "だいすきマシマシ",
+  "base_artist": "429",
+  "createdAt": "2026-04-03T06:18:54.674147Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だいすきマシマシ",
+      "artist": "429",
+      "has_synced": false,
+      "path": "select/pl_01_だいすきマシマシ_429.txt"
+    }
+  ]
+}
